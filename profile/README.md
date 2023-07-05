@@ -11,3 +11,4 @@
 - 🍿 Fun facts: Companies [built](https://www.wilburlabs.com/) by Wilbur Labs are part of daily life and have helped hundreds of millions of people travel the world, find a job, order everyday essentials, take care of their pets, sign up for the right insurance plan, among other things.
 - 📰 You can read [annoucements](https://www.wilburlabs.com/company-news), [Blueprints](https://www.wilburlabs.com/blueprints), and [press coverage](https://www.wilburlabs.com/press) from Wilbur Labs.
 - 📫 You can follow Wilbur Labs on [LinkedIn](https://www.linkedin.com/company/wilbur-labs/), [Twitter](https://twitter.com/wilburlabs/), [Instagram](http://instagram.com/wilburlabs), [Facebook](https://www.facebook.com/wilburlabs/), [YouTube](https://www.youtube.com/@wilburlabs).
+- 🏗️ Enjoy solving big problems? We are actively [hiring](https://www.wilburlabs.com/careers) across our portfolio.
